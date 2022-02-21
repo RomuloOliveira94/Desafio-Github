@@ -1,3 +1,3 @@
 # Desafio-Github
 
-Repositorio do desafio de gi/github da DIO.
+Repositorio do desafio de git/github da DIO.
